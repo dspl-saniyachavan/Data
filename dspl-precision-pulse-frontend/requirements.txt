@@ -1,0 +1,13 @@
+PySide6
+paho-mqtt
+argon2-cffi
+bcrypt
+requests
+cryptography
+python-dotenv
+python-socketio[client]
+python-engineio[client]
+websockets
+pytest>=7.4.0
+pytest-qt>=4.2.0
+pytest-mock>=3.11.0

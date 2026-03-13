@@ -1,0 +1,7 @@
+{
+<<<<<<< HEAD
+=======
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+>>>>>>> 02663375aa644af48deb03608c27441f7d346909
+    "python-envs.pythonProjects": []
+}
